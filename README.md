@@ -5,8 +5,8 @@ Email: tcdmb@umsystem.edu
 ```
 ---
 ```
-Partner Name: 
-Partner Email: 
+Partner Name: Muralikrishna Maanukonda
+Partner Email: mm5hd@umsystem.edu
 ```
 ---
 ```
