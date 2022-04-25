@@ -13,11 +13,9 @@ Partner Email:
 Partner Name: 
 Partner Email: 
 ```
-Partner Name:  
-Partner Email: 
-```
 ---
 ```
-Partner Name:  
+Partner Name: 
 Partner Email: 
 ```
+
